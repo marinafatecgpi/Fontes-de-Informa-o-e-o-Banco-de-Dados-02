@@ -26,3 +26,16 @@ https://drive.google.com/file/d/1ZyzYafRvsz7Ssx_BgXfuPbTrMy_kTmqg/view?usp=shari
 https://drive.google.com/file/d/1jXNTYJrW9yhS8cOB5rhYfjfWHTIQ1smm/view?usp=sharing
 
 🔹 Para entender o contexto e as necessidades do cliente, acesse: https://docs.google.com/spreadsheets/d/1Ebo9KrzdNyJs9_Ob16ZWbsHkk1gz2TPBwKTp4Ehtj0M/edit?usp=sharing
+
+## Prova Adrina - Power BI:Casamentos
+O dashboard foi desenvolvido para analisar a taxa de nupcialidade nas regiões administrativas, permitindo identificar diferenças territoriais e demográficas.
+O mapa geográfico destaca as regiões com as maiores taxas de nupcialidade, facilitando a visualização da distribuição espacial dos casamentos.
+A segunda visualização relaciona as regiões administrativas com a taxa de nupcialidade por sexo, permitindo comparar o comportamento do indicador entre homens e mulheres.
+A terceira visualização apresenta um ranking das regiões com maior taxa de nupcialidade, possibilitando identificar rapidamente os locais com os índices mais elevados.
+As visualizações, em conjunto, oferecem uma visão clara da distribuição da nupcialidade e auxiliam na compreensão das diferenças existentes entre as regiões analisadas.
+
+https://drive.google.com/file/d/15gAbVNOtrsecmYIOQPNYx3BCqrO_tELY/view?usp=sharing
+
+#Arquivos Adicionais 
+https://drive.google.com/file/d/1GBjD3Q9SYAPfxX4copbaK0N0AYm4M_sG/view?usp=sharing
+https://drive.google.com/file/d/1hwGWBdhtoaVCjXVj-cmq1p5up17HITJw/view?usp=sharing
