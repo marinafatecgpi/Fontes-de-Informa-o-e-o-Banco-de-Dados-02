@@ -133,7 +133,7 @@ Com base na imagem, podmeos concluir que, os anos que apresentaram média maior 
 <img width="904" height="552" alt="Captura de tela 2026-05-22 225147" src="https://github.com/user-attachments/assets/285ca3b3-9557-49cc-9386-baff53e12287" />
 
 
-## Prova Adrina - Power BI:Casamentos
+## Prova Adriana - Power BI:Casamentos
 O dashboard foi desenvolvido para analisar a taxa de nupcialidade nas regiões administrativas, permitindo identificar diferenças territoriais e demográficas.
 O mapa geográfico destaca as regiões com as maiores taxas de nupcialidade, facilitando a visualização da distribuição espacial dos casamentos.
 A segunda visualização relaciona as regiões administrativas com a taxa de nupcialidade por sexo, permitindo comparar o comportamento do indicador entre homens e mulheres.
