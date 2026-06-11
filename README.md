@@ -11,10 +11,6 @@ Atividades e trabalhos realizados no curso de Gestão da Produção Industrial (
 
 👉 Realizamos a primeira apresentação na disciplina de Fontes de Informações e Banco de Dados, com o auxílio do software Canva, cujo objetivo foi promover a integração e o conhecimento entre os alunos do curso. Nos slides, abordamos as profissões, hobbies e estilos musicais de cada integrante e, para um momento descontraído, propusemos uma dinâmica com o uso de cartas digitais para testar o conhecimento dos alunos sobre as características do grupo.
 
-<img width="904" height="552" alt="Captura de tela 2026-04-18 175941" src="https://github.com/user-attachments/assets/1ad4ac7a-86eb-4ae4-af9e-b5abd5163a3d" />
-
-https://drive.google.com/file/d/1ZyzYafRvsz7Ssx_BgXfuPbTrMy_kTmqg/view?usp=sharing
-
 ## Proposta de casamento indiano - Simulação de backlog para API:
 
 📆 | 03/03/2026
